@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rasttrear os hábitos.
 
+<a href="https://nathaliamdev.github.io/Habits/">Veja o projeto através deste link </a>
+
 
 ## 🔖 Layout
 
