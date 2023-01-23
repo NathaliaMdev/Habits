@@ -1,6 +1,6 @@
 <h1 align="center"> Habits </h1>
 
-<p align="center"Nlw é um evento é um evento gratuíto exclusivo promovido pela Rocktseat para ensino de tecnologia web<br/>>
+<p align="center"Nlw é um evento é um evento gratuíto exclusivo promovido pela Rocktseat para ensino de tecnologia web<br/>
 
 </p>
 
